@@ -1,0 +1,8 @@
+PSIM installer checking
+
+
+https certificate
+PSIM name change
+
+3.Carrying .Net 4.7.1 framework
+Panasonic Adapter
